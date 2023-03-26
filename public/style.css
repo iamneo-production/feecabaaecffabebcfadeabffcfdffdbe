@@ -1,0 +1,19 @@
+body{
+    background-color:grey;
+}
+#titleImage{
+
+    position : relative;
+}
+#titleName
+{
+    position:absolute;
+    text-align:center;
+    top: 250px;
+    left:650px;
+}
+#favFoodImage1,#favFoodImage2,#favFoodImage3
+{
+    border : 3px solid;
+    border-color:white;
+}
